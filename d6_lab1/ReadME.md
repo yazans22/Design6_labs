@@ -8,3 +8,5 @@ The vhdl component h_add describes a half adder circuit. The following is its si
 similarly, the following picture shows the gtkwave simulation for the d flip flop component. 
 ![image](https://github.com/yazans22/Design6_labs/assets/73455143/54851436-7e1f-4b82-a888-a0b5b3362b88)
 
+
+you can get the installation for both gtkwave and ghdl through the open source github pages. 
